@@ -1,16 +1,13 @@
-### Hi there 👋
+boas vindas ao meu perfil💟
 
-<!--
-**andresatec/andresatec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Andresa
 
-Here are some ideas to get you started:
+Estou estudando na {Alura}(https://www.alura.com.br)
+estou desenvolvendo na linguagen java
+utilizo esse espaço para organização e compartilhamneto dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##voce pode entrar em contato comigo📧
+andresacamargorb@hotmail.com
+
+!{}(![image](https://github.com/andresatec/andresatec/assets/170277900/adf72895-5bb2-4910-aaf6-b2c5996f2b4f)
+)
